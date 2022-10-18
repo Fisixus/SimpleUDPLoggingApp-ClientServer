@@ -1,0 +1,18 @@
+2022/10/18 00:01:54	Imagine that you’re working on an online ordering system.
+2022/10/18 00:01:55	You want to restrict access to the system so only authenticated users can create orders.
+2022/10/18 00:01:56	Also, users who have administrative permissions must have full access to all orders.
+2022/10/18 00:01:57	After a bit of planning, you realized that these checks must be performed sequentially.
+2022/10/18 00:01:58	The application can attempt to authenticate a user to the system whenever it receives a request that contains the user’s credentials.
+2022/10/18 00:01:59	However, if those credentials aren’t correct and authentication fails, there’s no reason to proceed with any other checks.
+2022/10/18 00:02:07	Imagine that you’re working on an online ordering system.
+2022/10/18 00:02:08	You want to restrict access to the system so only authenticated users can create orders.
+2022/10/18 00:02:09	Also, users who have administrative permissions must have full access to all orders.
+2022/10/18 00:02:10	After a bit of planning, you realized that these checks must be performed sequentially.
+2022/10/18 00:02:11	The application can attempt to authenticate a user to the system whenever it receives a request that contains the user’s credentials.
+2022/10/18 00:02:12	However, if those credentials aren’t correct and authentication fails, there’s no reason to proceed with any other checks.
+2022/10/18 00:02:56	Imagine that you’re working on an online ordering system.
+2022/10/18 00:02:57	You want to restrict access to the system so only authenticated users can create orders.
+2022/10/18 00:02:58	Also, users who have administrative permissions must have full access to all orders.
+2022/10/18 00:02:59	After a bit of planning, you realized that these checks must be performed sequentially.
+2022/10/18 00:03:00	The application can attempt to authenticate a user to the system whenever it receives a request that contains the user’s credentials.
+2022/10/18 00:03:01	However, if those credentials aren’t correct and authentication fails, there’s no reason to proceed with any other checks.
